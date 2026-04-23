@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola soy Javier, tengo 25 años y estoy titulado en Analista programador.<br>Actualmente estoy aprendiendo Vue.js y al mismo tiempo estoy realizando mini proyectos para para desenvolverme en el framework
+Hola soy Javier, tengo 27 años y estoy titulado en Analista programador.<br>Actualmente estoy aprendiendo Vue.js y al mismo tiempo estoy realizando mini proyectos para para desenvolverme en el framework
 
 
 ## 🌐 Socials:
